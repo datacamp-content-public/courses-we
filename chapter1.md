@@ -164,3 +164,51 @@ print(ahorros)
 ```{python}
 
 ```
+
+---
+
+## Calculos con variables
+
+```yaml
+type: NormalExercise
+key: 768b7b8e86
+xp: 100
+```
+
+En vez de calcular con valores numéricos, puedes usar variables en vez. La variable `ahorros` que creaste en el ejercicio pasado representa los `$100` con los que empezaste. Depende de ti crear una variable nueva que representa 1.1 y luego rehacer los calculos!
+
+`@instructions`
+1. Crea una variable `multiplicador_de_crecimiento`, igual a 1.1.
+2. Crea otra variable, `resultado`, igual a la cantidad de dinero que tienes después de 7 años.
+3. Imprime el valor de `resultado`.
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+# Se crea la variable llamada "ahorros"
+ahorros = 100
+
+# Se crea una variable llamada "multiplicador_de_crecimiento"
+multiplicador_de_crecimiento = 1.1
+# Calcular resultado
+resultado = (ahorros*(multiplicador_de_crecimiento**7))
+# Imprime el resultado
+print(resultado)
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+# Examples of good success messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.
+```
