@@ -37,11 +37,7 @@ Da _Submit_.
 
 `@pre_exercise_code`
 ```{python}
-# Ejemplo 1
-print(5 / 8)
 
-# Imprime la suma de 7 con 10
-print (7+10)
 ```
 
 `@sample_code`
@@ -61,8 +57,5 @@ print (7+10)
 
 `@sct`
 ```{python}
-Success!!
-Ex().check_function('5/8').check_args('a').has_equal_value()
-
-Ex().check_function('7+10').check_args('a').has_equal_value()
+Ex().has_printout(0)
 ```
