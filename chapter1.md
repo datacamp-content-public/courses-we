@@ -62,7 +62,7 @@ Ex().has_printout(0)
 
 ---
 
-## Insert exercise title here
+## Python como calculadora
 
 ```yaml
 type: NormalExercise
@@ -70,7 +70,7 @@ key: ab50e7a969
 xp: 100
 ```
 
-Python puede ser usado como calculadora. APuede realizar operaciones básicas y también operaciones más avanzadas como
+Python puede ser usado como calculadora. Puede realizar operaciones básicas y también operaciones más avanzadas como:
 
  Exponenciación: **. Este operador eleva al número de la izquierda a la potencia derecha. Por ejemplo, 4**2 dará 16.
  
