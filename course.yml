@@ -1,4 +1,4 @@
-title: we
-description: Course description goes here.
+title: Intro a Python - Alestra
+description: Intro a Python
 programming_language: python
-from: python-base-prod:v1.0.2
+from: 'python-base-prod:v1.0.2'
