@@ -16,10 +16,10 @@ skills: 2
 This is an example exercise. Print Hello World
 
 `@instructions`
-Print Hello World
+
 
 `@hint`
-print("Hello World")
+
 
 `@pre_exercise_code`
 ```{python}
