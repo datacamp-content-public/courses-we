@@ -162,5 +162,5 @@ print(ahorros)
 
 `@sct`
 ```{python}
-Great!
+
 ```
