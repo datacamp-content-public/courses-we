@@ -59,3 +59,58 @@ print (7+10)
 ```{python}
 Ex().has_printout(0)
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: ab50e7a969
+xp: 100
+```
+
+Python puede ser usado como calculadora. APuede realizar operaciones básicas y también operaciones más avanzadas como
+
+ Exponenciación: **. Este operador eleva al número de la izquierda a la potencia derecha. Por ejemplo, 4**2 dará 16.
+ 
+ Módulo: %. Este operador regresa el residuo de la división del número de la izquierda entre el número de la derecha. Por ejemplo, 18 % 7 es igual a 4.
+
+El código en el script da algunos ejemplos de operaciones aritméticas.
+
+`@instructions`
+Supongamos que tienes $100, y los puedes invertir con un 10% de regreso de inversión por año. Después de un año obtienes 100×1.1=110 pesos, después de dos años tendrás 100×1.1×1.1=121 pesos. Escribe código para determinar cuanto dinero tendrás después de 7 años e imprime el resultado.
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+# Suma, resta
+print(5 + 5)
+print(5 - 5)
+
+# Multiplicación, división, módulo, y potencias
+print(3 * 5)
+print(10 / 2)
+print(18 % 7)
+print(4 ** 2)
+
+# ¿Cuánto valen tus $100 después de 7 años si cada año tienes el 10% de retorno de inversión?
+
+```
+
+`@solution`
+```{python}
+print(100*1.1**7)
+```
+
+`@sct`
+```{python}
+# Examples of good success messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.
+```
