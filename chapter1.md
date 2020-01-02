@@ -15,19 +15,23 @@ skills: 2
 
 En el lado derecho se encuentra el script del archivo de Python. Su terminación **(.py)** indica que es un archivo que Python puede correr.
 
-Si se oprime el botón del lado derecho _Run Code_, se compila el código y se ejecuta en el "Shell" de IPython directamente abajo. Compilar significa que Python checa primero por errores en la estructura o escritura del código antes de ejecutarlo.
+Si se oprime el botón del lado derecho _Run Code_, se compila el código y se ejecuta en el "Shell" de IPython directamente abajo. Compilar significa que Python checa primero los errores de estructura o escritura del código antes de ejecutarlo.
 
 El botón de _Submit Answer_ checa si tu respuesta es correcta o no.
 
 Puedes oprimir el botón de _Run Code_ o _Submit Answer_ las veces que quieras.
 
-También se puede interactuar directamente con el Shell de IPython escribiendo tu código y luego oprimiendo la tecla # Enter.
+También se puede interactuar directamente con el Shell de IPython escribiendo tu código y luego oprimiendo la tecla Enter.
 
-Trabajar en IPython directamente es una manera de checar si tu respuesta es correcta o no.
+Trabajar en el Shell de IPython directamente es una manera de checar si tu respuesta es correcta o no.
 
 
 `@instructions`
+Comenta la primer línea y corre el código.
 
+Después comenta la segunda operación y descomenta la primera, luego corre el código.
+
+Da _Submit_.
 
 `@hint`
 
