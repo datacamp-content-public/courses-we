@@ -25,7 +25,6 @@ También se puede interactuar directamente con el Shell de IPython escribiendo t
 
 Trabajar en el Shell de IPython directamente es una manera de checar si tu respuesta es correcta o no.
 
-
 `@instructions`
 Comenta la primer línea y corre el código.
 
