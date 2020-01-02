@@ -47,7 +47,11 @@ print (7+10)
 
 `@sample_code`
 ```{python}
+# Ejemplo 1
+print(5 / 8)
 
+# Imprime la suma de 7 con 10
+print (7+10)
 ```
 
 `@solution`
