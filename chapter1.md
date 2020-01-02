@@ -114,3 +114,53 @@ print(100*1.1**7)
 ```{python}
 # Examples of good success messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.
 ```
+
+---
+
+## Asignación de variables
+
+```yaml
+type: NormalExercise
+key: 8840be502a
+xp: 100
+```
+
+En Python, una variable permite referirte a un valor con un nombre específico.
+Para crear una variable usa el signo de `=` después de una letra o palabra. Por ejemplo,
+
+`x = 5 `
+
+Ahora se puede manipular el valor de `x` en vez del valor de `5`.
+
+Recuerda que `=` en Python significa asignación, no es una prueba de igualdad.
+
+`@instructions`
+- Crea una variable llamada `ahorro`con un valor de `100`.
+
+- Imprime el valor de esta variable escribiendo `print(ahorros)` en el script.
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+# Crea la variable ahorros
+ahorros = 100 
+# Imprime ahorros
+print(ahorros)
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+Great!
+```
