@@ -287,3 +287,38 @@ profitable= True
 ```{python}
 # Examples of good success messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.
 ```
+
+---
+
+## Adivina el tipo 
+
+```yaml
+type: MultipleChoiceExercise
+key: 50d0520eda
+xp: 50
+```
+
+<!-- Guidelines for the question: https://instructor-support.datacamp.com/en/articles/2375523-course-multiple-choice-with-console-exercises. -->
+Para encontrar el tipo de la vaibale a la que se está refiriendo podrías utilizar:  `type()`. Está función se ejecuta simplemente escribiendo la variable dentro de los parentesís. 
+
+	type(a) 
+
+`@possible_answers`
+- [Correct answer 1]
+- Wrong answer 2
+- Wrong answer 3
+
+`@hint`
+<!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
+- This is an example hint.
+- This is an example hint.
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+# Check https://instructor-support.datacamp.com/en/articles/2375523-course-multiple-choice-with-console-exercises on how to write feedback messages for this exercise.
+```
