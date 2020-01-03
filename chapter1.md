@@ -193,6 +193,21 @@ En vez de calcular con valores numéricos, puedes usar la variable asignada. Por
 `@sample_code`
 ```{python}
 # Se crea la variable llamada "ahorros"
+
+
+# Se crea una variable llamada "multiplicador_de_crecimiento"
+
+
+# Calcular resultado
+
+
+# Imprime el resultado
+
+```
+
+`@solution`
+```{python}
+# Se crea la variable llamada "ahorros"
 ahorros = 100
 
 # Se crea una variable llamada "multiplicador_de_crecimiento"
@@ -203,11 +218,6 @@ resultado = (ahorros*(multiplicador_de_crecimiento**7))
 
 # Imprime el resultado
 print(resultado)
-```
-
-`@solution`
-```{python}
-
 ```
 
 `@sct`
