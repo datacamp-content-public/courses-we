@@ -175,7 +175,7 @@ key: 768b7b8e86
 xp: 100
 ```
 
-En vez de calcular con valores numéricos, puedes usar variables en vez. La variable `ahorros` que creaste en el ejercicio pasado representa los `$100` con los que empezaste. Depende de ti crear una variable nueva que representa 1.1 y luego rehacer los calculos!
+En vez de calcular con valores numéricos, puedes usar la variable asignada. Por ahora `ahorros` creada en el ejercicio anterior representa los `$100` con los que empezaste. Depende de ti crear una variable nueva que representa 1.1 y luego rehacer los calculos.
 
 `@instructions`
 1. Crea una variable `multiplicador_de_crecimiento`, igual a 1.1.
