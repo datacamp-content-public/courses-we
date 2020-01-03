@@ -302,6 +302,10 @@ xp: 50
 Para encontrar el tipo de la vaibale a la que se está refiriendo podrías utilizar:  `type()`. Está función se ejecuta simplemente escribiendo la variable dentro de los paréntesis. 
 
 	type(a) 
+    
+Las variables `a`, `b`, y `c ` han sido previamente creadas. 
+
+Puedes utilizar la termianl en la derecha para descubrir cual de las siguientes opciones es correcta. 
 
 `@possible_answers`
 - [Correct answer 1]
