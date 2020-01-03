@@ -72,9 +72,9 @@ xp: 100
 
 Python puede ser usado como calculadora. Puede realizar operaciones básicas y también operaciones más avanzadas como:
 
- Exponenciación: **. Este operador eleva al número de la izquierda a la potencia derecha. Por ejemplo, 4**2 dará 16.
+	Exponenciación: **. Este operador eleva al número de la izquierda a la potencia derecha. Por ejemplo, 4**2 dará 16.
  
- Módulo: %. Este operador regresa el residuo de la división del número de la izquierda entre el número de la derecha. Por ejemplo, 18 % 7 es igual a 4.
+	Módulo: %. Este operador regresa el residuo de la división del número de la izquierda entre el número de la derecha. Por ejemplo, 18 % 7 es igual a 4.
 
 El código en el script da algunos ejemplos de operaciones aritméticas.
 
@@ -128,7 +128,7 @@ xp: 100
 En Python, una variable permite referirte a un valor con un nombre específico.
 Para crear una variable usa el signo de `=` después de una letra o palabra. Por ejemplo,
 
-`x = 5 `
+	x = 5 
 
 Ahora se puede manipular el valor de `x` en vez del valor de `5`.
 
@@ -201,6 +201,57 @@ multiplicador_de_crecimiento = 1.1
 resultado = (ahorros*(multiplicador_de_crecimiento**7))
 # Imprime el resultado
 print(resultado)
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+# Examples of good success messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: fbbf2cbedc
+xp: 100
+```
+
+En el ejercicio anterior, trabajaste con dos tipos de estructuras de Python:
+
+	int, "integer" o entero: un número sin una parte fraccionada. "ahorros" con valor de 100, es un ejemplo de un entero.
+    float, o "punto flotante": un número que tiene ambas partes enteras y fracionales, separadas por un punto. "multiplicador_de_crecimiento", con valor de 1.1, es un ejemplo de un flotante.
+
+Al lado de los tipos de información numéricos, hay otros tipos de información comunes:
+
+    str, string o "cadena de carácter": un tipo que representa texto. Puedes usar comillas sencillas o dobles para construir un "string".
+    bool, boolean o "boleana": a type to represent logical values. Can only be True or False (the capitalization is important!).
+
+
+`@instructions`
+<!-- Guidelines for instructions https://instructor-support.datacamp.com/en/articles/2375526-course-coding-exercises. -->
+- Instruction 1
+- Instruction 2
+
+`@hint`
+<!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
+- This is an example hint.
+- This is an example hint.
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
 ```
 
 `@solution`
