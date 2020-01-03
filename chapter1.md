@@ -325,8 +325,8 @@ c= 2
 `@sct`
 ```{python}
 # Check https://instructor-support.datacamp.com/en/articles/2375523-course-multiple-choice-with-console-exercises on how to write feedback messages for this exercise.
-msg1="hola"
-msg2="hola"
-msg3="hola"
+msg1="sdfg"
+msg2="Intenta de nuevo"
+msg3="Intenta de nuevo"
 Ex().has_chosen(correct=1, msgs = [msg1, msg2, msg3])
 ```
