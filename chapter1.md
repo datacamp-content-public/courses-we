@@ -308,7 +308,7 @@ Las variables `a`, `b`, y `c ` han sido previamente creadas.
 Puedes utilizar la termianl en la derecha para descubrir cual de las siguientes opciones es correcta. 
 
 `@possible_answers`
-- [Correct answer 1] `a` es de tipo `int`, `b` es de tipo `str`, `c` es de tipo `bool`
+- `a` es de tipo `int`, `b` es de tipo `str`, `c` es de tipo `bool`
 - Wrong answer 2
 - Wrong answer 3
 -
