@@ -79,7 +79,9 @@ Python puede ser usado como calculadora. Puede realizar operaciones básicas y t
 El código en el script da algunos ejemplos de operaciones aritméticas.
 
 `@instructions`
-Supongamos que tienes $100, y los puedes invertir con un 10% de regreso de inversión por año. Después de un año obtienes 100×1.1=110 pesos, después de dos años tendrás 100×1.1×1.1=121 pesos. Escribe código para determinar cuanto dinero tendrás después de 7 años e imprime el resultado.
+Supongamos que tienes $100, y los puedes invertir con un 10% de regreso de inversión por año. Después de un año obtienes 100×1.1=110 pesos, después de dos años tendrás 100×1.1×1.1=121 pesos.
+
+1. Escribe código para determinar cuanto dinero tendrás después de 7 años e imprime el resultado.
 
 `@hint`
 
