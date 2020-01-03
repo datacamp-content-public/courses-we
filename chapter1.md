@@ -313,9 +313,7 @@ Puedes utilizar la termianl en la derecha para descubrir cual de las siguientes 
 - `a` es de tipo `int`, `b` es de tipo `float`, `c` es de tipo `bool`
 
 `@hint`
-<!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
-- This is an example hint.
-- This is an example hint.
+<!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices
 
 `@pre_exercise_code`
 ```{python}
