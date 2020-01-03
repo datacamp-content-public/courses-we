@@ -73,7 +73,7 @@ xp: 100
 Python puede ser usado como calculadora. Puede realizar operaciones básicas y también operaciones más avanzadas como:
 
 	Exponenciación: Este operador eleva al número de la izquierda a la potencia derecha. 
-    Por ejemplo, 4**2 dará 16.
+    Por ejemplo, 4*2 dará 16.
  
 	Módulo:  Este operador regresa el residuo de la división del número de la izquierda entre el número de la 				derecha.
     Por ejemplo, 18 % 7 es igual a 4.
