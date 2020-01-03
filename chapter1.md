@@ -240,7 +240,7 @@ En el ejercicio anterior, trabajaste con dos tipos de estructuras de Python:
 	-int, "integer" o entero: un número sin una parte fraccionada.
     	"ahorros" con valor de 100, es un ejemplo de un entero.
     -float, o "punto flotante": un número que tiene ambas partes enteras y fracionales, separadas por un punto. 
-    "multiplicador_de_crecimiento", con valor de 1.1, es un ejemplo de un flotante.
+   		"multiplicador_de_crecimiento", con valor de 1.1, es un ejemplo de un flotante.
 
 Al lado de los tipos de información numéricos, hay otros tipos de información comunes:
 
