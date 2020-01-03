@@ -135,7 +135,7 @@ Ahora se puede manipular el valor de `x` en vez del valor de `5`.
 Recuerda que `=` en Python significa asignación, no es una prueba de igualdad.
 
 `@instructions`
-- Crea una variable llamada `ahorro`con un valor de `100`.
+- Crea una variable llamada `ahorros`con un valor de `100`.
 
 - Imprime el valor de esta variable escribiendo `print(ahorros)` en el script.
 
