@@ -259,8 +259,6 @@ Al lado de los tipos de información numéricos, hay otros tipos de información
 
 `@hint`
 <!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
-- This is an example hint.
-- This is an example hint.
 
 `@pre_exercise_code`
 ```{python}
@@ -269,12 +267,20 @@ Al lado de los tipos de información numéricos, hay otros tipos de información
 
 `@sample_code`
 ```{python}
+# Create a variable desc
+
+
+# Create a variable profitable
 
 ```
 
 `@solution`
 ```{python}
+# Create a variable desc
+desc= "compound interest"
 
+# Create a variable profitable
+profitable= True
 ```
 
 `@sct`
