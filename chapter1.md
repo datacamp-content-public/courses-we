@@ -233,7 +233,6 @@ Al lado de los tipos de información numéricos, hay otros tipos de información
     str, string o "cadena de carácter": un tipo que representa texto. Puedes usar comillas sencillas o dobles para construir un "string".
     bool, boolean o "boleana": a type to represent logical values. Can only be True or False (the capitalization is important!).
 
-
 `@instructions`
 <!-- Guidelines for instructions https://instructor-support.datacamp.com/en/articles/2375526-course-coding-exercises. -->
 - Instruction 1
