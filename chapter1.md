@@ -197,8 +197,10 @@ ahorros = 100
 
 # Se crea una variable llamada "multiplicador_de_crecimiento"
 multiplicador_de_crecimiento = 1.1
+
 # Calcular resultado
 resultado = (ahorros*(multiplicador_de_crecimiento**7))
+
 # Imprime el resultado
 print(resultado)
 ```
