@@ -76,7 +76,7 @@ Python puede ser usado como calculadora. Puede realizar operaciones básicas y t
  
 **Módulo:** % Este operador regresa el residuo de la división del número de la izquierda entre el número de la 			derecha. Por ejemplo, 18 % 7 es igual a 4.
 
-El código en el script da algunos ejemplos de operaciones aritméticas.
+	El código en el script da algunos ejemplos de operaciones aritméticas.
 
 `@instructions`
 Supongamos que tienes $100, y los puedes invertir con un 10% de regreso de inversión por año. Después de un año obtienes 100×1.1=110 pesos, después de dos años tendrás 100×1.1×1.1=121 pesos.
