@@ -322,7 +322,7 @@ Puedes utilizar la termianl en la derecha para descubrir cual de las siguientes 
 ```{python}
 a= 194.929
 b= True 
-c= hi
+c= 2
 ```
 
 `@sct`
