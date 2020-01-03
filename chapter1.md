@@ -267,19 +267,19 @@ Al lado de los tipos de información numéricos, hay otros tipos de información
 
 `@sample_code`
 ```{python}
-# Create a variable desc
+#Crea la variable desc
 
 
-# Create a variable profitable
+#Crea la variable profitable
 
 ```
 
 `@solution`
 ```{python}
-# Create a variable desc
+#Crea la variable desc
 desc= "compound interest"
 
-# Create a variable profitable
+#Crea la variable profitable
 profitable= True
 ```
 
