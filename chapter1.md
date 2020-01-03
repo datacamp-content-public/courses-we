@@ -299,7 +299,7 @@ xp: 50
 ```
 
 <!-- Guidelines for the question: https://instructor-support.datacamp.com/en/articles/2375523-course-multiple-choice-with-console-exercises. -->
-Para encontrar el tipo de la vaibale a la que se está refiriendo podrías utilizar:  `type()`. Está función se ejecuta simplemente escribiendo la variable dentro de los parentesís. 
+Para encontrar el tipo de la vaibale a la que se está refiriendo podrías utilizar:  `type()`. Está función se ejecuta simplemente escribiendo la variable dentro de los paréntesis. 
 
 	type(a) 
 
