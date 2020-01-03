@@ -309,9 +309,8 @@ Puedes utilizar la termianl en la derecha para descubrir cual de las siguientes 
 
 `@possible_answers`
 - `a` es de tipo `float`, `b` es de tipo `bool`, `c` es de tipo `int`
-- Wrong answer 2
-- Wrong answer 3
--
+- `a` es de tipo `bool`, `b` es de tipo `int`, `c` es de tipo `float`
+- `a` es de tipo `int`, `b` es de tipo `float`, `c` es de tipo `bool`
 
 `@hint`
 <!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
