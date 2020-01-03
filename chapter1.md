@@ -330,3 +330,46 @@ msg2="Intenta de nuevo"
 msg3="Intenta de nuevo"
 Ex().has_chosen(correct=1, msgs = [msg1, msg2, msg3])
 ```
+
+---
+
+## Operaciones con otros tipos
+
+```yaml
+type: NormalExercise
+key: a8e09c6bcb
+xp: 100
+```
+
+<!-- Guidelines for contexts: https://instructor-support.datacamp.com/en/articles/2375526-course-coding-exercises. -->
+Es necesario saber que los diferentes tipos de variables podrían comportarse 
+
+`@instructions`
+<!-- Guidelines for instructions https://instructor-support.datacamp.com/en/articles/2375526-course-coding-exercises. -->
+- Instruction 1
+- Instruction 2
+
+`@hint`
+<!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
+- This is an example hint.
+- This is an example hint.
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+# Examples of good success messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.
+```
