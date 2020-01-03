@@ -308,7 +308,7 @@ Las variables `a`, `b`, y `c ` han sido previamente creadas.
 Puedes utilizar la termianl en la derecha para descubrir cual de las siguientes opciones es correcta. 
 
 `@possible_answers`
-- `a` es de tipo `int`, `b` es de tipo `str`, `c` es de tipo `bool`
+- `a` es de tipo `float`, `b` es de tipo `bool`, `c` es de tipo `bool`
 - Wrong answer 2
 - Wrong answer 3
 -
@@ -322,7 +322,7 @@ Puedes utilizar la termianl en la derecha para descubrir cual de las siguientes 
 ```{python}
 a= 194.929
 b= True 
-c= False
+c= hi
 ```
 
 `@sct`
