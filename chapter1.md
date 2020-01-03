@@ -254,8 +254,8 @@ Al lado de los tipos de información numéricos, hay otros tipos de información
 
 `@instructions`
 <!-- Guidelines for instructions https://instructor-support.datacamp.com/en/articles/2375526-course-coding-exercises. -->
-- Instruction 1
-- Instruction 2
+- Crea un nuevo string, llamado `desc`, con el valor `"interes compuesto"`
+- Crea un boolean, llamado `profitable`, con el valor `True`
 
 `@hint`
 <!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
